@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Local runtime artifacts / outputs
+logs/*.log
+uploads/
+
+# Local vector DB / indexes
+db/
+
+# Sample or local documents (keep out of git by default)
+Data/**/*.pdf
+Data/**/*.docx
+Data/**/*.pptx
+Data/**/*.xlsx

@@ -1,0 +1,437 @@
+{
+  "average_similarity": 0.7099,
+  "average_generation_time": 6.6,
+  "total_questions": 25,
+  "results": [
+    {
+      "question": "Why did Surya advise Karna not to give away his celestial earrings?",
+      "reference_answer": "Surya warned Karna that giving away his earrings would weaken his protection and make him vulnerable to Arjuna in battle.",
+      "generated_answer": "Surya advised Karna not to give away his celestial earrings to remove the lord of the celestials’ eagerness for the possession of them. He suggested repeating answers fraught with various reasons to dissuade Surya.",
+      "similarity": 0.7827,
+      "sources": [
+        362,
+        1526,
+        1528,
+        2113,
+        3026,
+        3121,
+        3187,
+        3648
+      ],
+      "generation_time": 9.79
+    },
+    {
+      "question": "Why did Karna refuse to break his vow of charity despite Surya's warning?",
+      "reference_answer": "Karna valued truthfulness and generosity above his own life and would not refuse a request made in charity.",
+      "generated_answer": "I could not find that information.",
+      "similarity": 0.3292,
+      "sources": [
+        543,
+        1038,
+        1526,
+        1783,
+        2061,
+        3257,
+        3427,
+        3649,
+        5723
+      ],
+      "generation_time": 5.16
+    },
+    {
+      "question": "Who was Nahusha before becoming a serpent?",
+      "reference_answer": "Nahusha was an ancient king who attained great power but was cursed and transformed into a serpent because of arrogance.",
+      "generated_answer": "Nahusha was the son of Ayu and the perpetuator of the line of their ancestors. He was also a royal sage who acquired sovereignty of Heaven through his own good deeds and asceticism.",
+      "similarity": 0.7116,
+      "sources": [
+        120,
+        624,
+        1239,
+        1240,
+        1243,
+        1754,
+        1758,
+        4905,
+        5226
+      ],
+      "generation_time": 5.85
+    },
+    {
+      "question": "According to Yudhishthira, what qualities define a true Brahmana?",
+      "reference_answer": "A true Brahmana is characterized by truth, charity, forgiveness, good conduct, benevolence, observance of duty, and mercy.",
+      "generated_answer": "According to Yudhishthira, a true Brahmana is defined by qualities such as being free from cupidity, pure of heart and conduct, possessing learning and modesty, truthful in speech, observant of their duties as laid down in the scriptures, and devoted to asceticism and gift.",
+      "similarity": 0.8391,
+      "sources": [
+        161,
+        3243,
+        3805,
+        4463,
+        4968,
+        5092,
+        5105,
+        5554,
+        5559,
+        5561
+      ],
+      "generation_time": 6.4
+    },
+    {
+      "question": "What did Yudhishthira identify as the supreme object of knowledge?",
+      "reference_answer": "The supreme object of knowledge is Brahman, which is beyond happiness and misery.",
+      "generated_answer": "Yudhishthira identified “that thou that art conversant with the highest object of knowledge” as the supreme object of knowledge. He believed acquiring this entity meant there was no higher object to attain, and it led to immortality and freedom from limitations.",
+      "similarity": 0.7008,
+      "sources": [
+        1254,
+        2552,
+        2635,
+        3738,
+        4505,
+        4506,
+        4548,
+        4819,
+        4916
+      ],
+      "generation_time": 6.07
+    },
+    {
+      "question": "What happened when Ashvatthama entered the Pandava camp at night?",
+      "reference_answer": "Ashvatthama slaughtered sleeping warriors, including Dhrishtadyumna, Uttamauja, and Yudhamanyu.",
+      "generated_answer": "When Ashvatthama entered the Pandava camp at night, he slaughtered the Pandavas and all the sons of Drupada and Draupadi. The entire Pancala army was also killed during this nighttime attack.",
+      "similarity": 0.7637,
+      "sources": [
+        108,
+        324,
+        2940,
+        2942,
+        3002,
+        3091,
+        3557,
+        3564,
+        3605,
+        5614
+      ],
+      "generation_time": 6.24
+    },
+    {
+      "question": "What is the difference between Prakriti and Purusha?",
+      "reference_answer": "Prakriti is the changing material principle while Purusha is the unchanging conscious principle.",
+      "generated_answer": "According to the text, Prakriti is fraught with the three attributes (Goodness, Passion, and Darkness) and is engaged in creation, while Purusha is freed from these attributes and transcends the four and twenty topics or principles. Prakriti is called Vidya, while Purusha is called Vidya.",
+      "similarity": 0.7831,
+      "sources": [
+        4262,
+        4626,
+        4648,
+        4657,
+        4748,
+        5409
+      ],
+      "generation_time": 6.38
+    },
+    {
+      "question": "According to the philosophical discussion, what is Vidya and what is Avidya?",
+      "reference_answer": "Vidya refers to knowledge associated with Purusha, while Avidya refers to ignorance or Prakriti.",
+      "generated_answer": "According to the philosophical discussion, Vidya (knowledge) is Consciousness, Mahat (the principle of intellect), and Prakriti (the unmanifest and supreme principle). Avidya (Ignorance or illusion) is Prakriti when it is unmanifest and supreme, and also when it is Bhagavan, i.e., endued with the six grand attributes.",
+      "similarity": 0.8621,
+      "sources": [
+        3685,
+        4248,
+        4269,
+        4511,
+        4626,
+        4657
+      ],
+      "generation_time": 7.19
+    },
+    {
+      "question": "Why was Prahlada deprived of his sovereignty over the three worlds?",
+      "reference_answer": "Prahlada lost his sovereignty because his conduct and behavior were taken away through Sukra's actions.",
+      "generated_answer": "The goddess of Prosperity stated that Prahlada was deprived of his sovereignty over the three worlds because he robbed him of it. Specifically, Sukra, instructed by Prahlada, had robbed him of that sovereignty.",
+      "similarity": 0.7857,
+      "sources": [
+        3185,
+        3332,
+        3980,
+        3982,
+        4731,
+        4772,
+        5078,
+        5505
+      ],
+      "generation_time": 6.06
+    },
+    {
+      "question": "What qualities are said to be rooted in proper behavior?",
+      "reference_answer": "Righteousness, truth, good deeds, might, and prosperity are rooted in proper behavior.",
+      "generated_answer": "According to the text, qualities like truthfulness, abstention from doing injury, rectitude, abstention from evil, want of haughtiness, modesty, resignation, self-restraint, absence of passion, wisdom, patience, and kindness are considered part of proper behavior.",
+      "similarity": 0.7585,
+      "sources": [
+        1322,
+        1323,
+        1327,
+        1806,
+        1811,
+        3857,
+        3860,
+        3868,
+        4965,
+        5557
+      ],
+      "generation_time": 6.95
+    },
+    {
+      "question": "How did Bhima participate in the wrestling festival in the kingdom of Matsya?",
+      "reference_answer": "Bhima entered the arena disguised as a cook and wrestled the powerful athlete Jimuta.",
+      "generated_answer": "Bhima wrestled then pulled and pressed and whirled and hurled down each other and struck each other with their knees, expressing all the while their scorn for each other in loud voices. They began to fight with their bare arms in this way, which were like spiked maces of iron.",
+      "similarity": 0.614,
+      "sources": [
+        1593,
+        1594,
+        1713,
+        2406,
+        2596,
+        2631,
+        3233,
+        3315,
+        5461
+      ],
+      "generation_time": 7.04
+    },
+    {
+      "question": "What are the four Yugas mentioned by Sanjaya?",
+      "reference_answer": "The four Yugas are Krita, Treta, Dwapara, and Kali.",
+      "generated_answer": "The four Yugas mentioned by Sanjaya are Krita, Treta, Dwapara, and Kali. These Yugas set in Bharata’s Varsha, representing different periods of time within the cosmic cycle.",
+      "similarity": 0.8254,
+      "sources": [
+        669,
+        2204,
+        2237,
+        2953,
+        3749,
+        4532,
+        4609
+      ],
+      "generation_time": 6.59
+    },
+    {
+      "question": "How does human lifespan change across the Yugas?",
+      "reference_answer": "Human lifespan gradually decreases from Krita through Treta and Dwapara to Kali Yuga.",
+      "generated_answer": "Across the Yugas, human lifespan decreases. The Krita Yuga has a lifespan of four hundred years for individuals, while the Treta Yuga reduces this by a quarter to three thousand years. The Dwapara Yuga then decreases further to two thousand years, and finally, the Kali Yuga has a lifespan of one thousand years.",
+      "similarity": 0.8273,
+      "sources": [
+        1177,
+        1265,
+        1275,
+        4319,
+        5279
+      ],
+      "generation_time": 6.78
+    },
+    {
+      "question": "What signs of moral decline are predicted for Kali Yuga?",
+      "reference_answer": "People become deceitful, greedy, violent, irreligious, and increasingly detached from truth and virtue.",
+      "generated_answer": "During the Kali Yuga, men will practice morality deceitfully, deceive their fellows by spreading virtue, and sinfulness will grow through theft, untruth, and deception. The hearts of men will be wrathful, covetous, and untruthful, filled with jealousy, pride, anger, deception, malice, and covetousness.",
+      "similarity": 0.6497,
+      "sources": [
+        965,
+        1177,
+        1273,
+        1274,
+        2204,
+        3831,
+        4319,
+        4416
+      ],
+      "generation_time": 6.75
+    },
+    {
+      "question": "What did Narada advise Galava regarding the different Ashramas?",
+      "reference_answer": "Narada explained that all four Ashramas have distinct duties and should be understood through proper reflection and guidance.",
+      "generated_answer": "I could not find that information.",
+      "similarity": 0.3768,
+      "sources": [
+        106,
+        723,
+        1977,
+        1999,
+        2009,
+        2677,
+        4548,
+        4778,
+        5431,
+        5731
+      ],
+      "generation_time": 4.88
+    },
+    {
+      "question": "According to Bhishma, what benefits a person who lacks knowledge of scripture?",
+      "reference_answer": "Respecting teachers, serving elders, and listening to scripture are highly beneficial.",
+      "generated_answer": "Worshipping the preceptor, always waiting reverentially on those that are aged, and listening to the scriptures when recited by up competent Brahmanas are said to be of supreme benefit to a person like the one thou hast described. He who is ignorant of scripture yet vain, poor yet proud, and who resorteth to unfair means for the acquisition of his objects, is a fool.",
+      "similarity": 0.6827,
+      "sources": [
+        1802,
+        2114,
+        3427,
+        4251,
+        4469,
+        4548,
+        4866,
+        4885,
+        4992
+      ],
+      "generation_time": 7.27
+    },
+    {
+      "question": "What difficult questions did Kasyapa ask regarding the soul and rebirth?",
+      "reference_answer": "Kasyapa asked about death, rebirth, emancipation, karma, and how the soul acquires and leaves bodies.",
+      "generated_answer": "Kasyapa asked the Brahmana twenty-five difficult questions regarding the soul and rebirth. These included how the body dissolves, how another is acquired, how one becomes emancipated from repeated rebirths, and how the Jiva-soul relates to Brahman.",
+      "similarity": 0.8362,
+      "sources": [
+        792,
+        4248,
+        4272,
+        4656,
+        4657,
+        5165,
+        5500
+      ],
+      "generation_time": 6.61
+    },
+    {
+      "question": "According to the emancipated sage, what contributes to the dissolution of the body?",
+      "reference_answer": "Improper habits, unhealthy food, excesses, neglect of health, disease, and harmful actions contribute to bodily dissolution.",
+      "generated_answer": "Upon the exhaustion of those acts capable of prolonging life and bringing on fame which are done in a particular body that Jiva assumes, the embodied Jiva, with the span of his life shortened, begins to do acts hostile to life and health.",
+      "similarity": 0.623,
+      "sources": [
+        309,
+        2289,
+        4158,
+        4224,
+        4265,
+        4582,
+        4624,
+        5500,
+        5759
+      ],
+      "generation_time": 6.48
+    },
+    {
+      "question": "What virtues are described as constituting the body of Dharma when the Yaksha reveals himself?",
+      "reference_answer": "Fame, truth, self-restraint, purity, modesty, charity, austerity, and Brahmacharya are among the virtues associated with Dharma.",
+      "generated_answer": "The text describes eight qualities that constitute Dharma: truth, meditation, distinction of subject and object, inference, withdrawal, never taking what belongs to others, Brahmacharya vows, and non-acceptance of gifts.",
+      "similarity": 0.7725,
+      "sources": [
+        1554,
+        1555,
+        1556,
+        1840,
+        4224,
+        4464,
+        5811
+      ],
+      "generation_time": 6.45
+    },
+    {
+      "question": "What did the Yaksha reveal about his identity to Yudhishthira?",
+      "reference_answer": "The Yaksha revealed that he was Yudhishthira's father, the Lord of Justice (Dharma).",
+      "generated_answer": "The Yaksha revealed that he was a being who could answer questions about the nature of man and wealth. He stated, “Thou hast, O king truly answered who is a man, and what man possesseth every kind of wealth.”",
+      "similarity": 0.7001,
+      "sources": [
+        1554,
+        1555,
+        1556,
+        1558
+      ],
+      "generation_time": 7.18
+    },
+    {
+      "question": "Why did Dhritarashtra ask Yudhishthira to return to his kingdom?",
+      "reference_answer": "Dhritarashtra believed Yudhishthira had fulfilled his duties and should return to govern and protect the kingdom.",
+      "generated_answer": "Based on the provided text, Dhritarashtra asked Yudhishthira to return to his kingdom to “witness his handsome assembly house” and “commence a friendly match at dice here.” He wanted Yudhishthira and his brothers to see his palace, which was furnished with jewels and valuable items.",
+      "similarity": 0.8049,
+      "sources": [
+        547,
+        554,
+        765,
+        1641,
+        2050,
+        3476,
+        5723,
+        5763,
+        5764,
+        5790
+      ],
+      "generation_time": 7.4
+    },
+    {
+      "question": "What was Karna's relationship with the Kauravas according to Bhishma?",
+      "reference_answer": "Bhishma urged Karna to protect and lead the Kauravas as though they were his own family.",
+      "generated_answer": "According to the text, Karna was equal to Devavrata himself, and the Kauravas placed him at the head of their whole host. They were fearful after hearing that Karna had been slain by Dhananjaya.",
+      "similarity": 0.6691,
+      "sources": [
+        342,
+        1713,
+        2501,
+        2549,
+        2609,
+        2631,
+        3124,
+        3343,
+        3354,
+        5419
+      ],
+      "generation_time": 6.63
+    },
+    {
+      "question": "What was the purpose of Viswavasu's philosophical questions?",
+      "reference_answer": "The questions sought understanding of reality, knowledge, Purusha, Prakriti, and liberation.",
+      "generated_answer": "Viswavasu, a Gandharva, asked the preceptor forty-two questions relating to the Vedas. He wanted to ascertain what was beneficial for Brahmanas in this knowledge, what truth occurred within it, and what was the excellent object of this knowledge.",
+      "similarity": 0.6984,
+      "sources": [
+        104,
+        1993,
+        3711,
+        3955,
+        4656,
+        4657,
+        5548
+      ],
+      "generation_time": 6.66
+    },
+    {
+      "question": "According to the text, what is considered truly beneficial despite differing scriptural teachings?",
+      "reference_answer": "Good conduct, helping friends, overcoming enemies, and pursuing righteousness are considered beneficial.",
+      "generated_answer": "Despite the scriptures being multifarious, that which is truly beneficial becomes invested with mystery. It seems that the concept of what is beneficial is obscured by the variety of interpretations within the scriptures.",
+      "similarity": 0.6312,
+      "sources": [
+        1675,
+        3551,
+        4400,
+        4548,
+        4584,
+        4595,
+        4684,
+        4708
+      ],
+      "generation_time": 5.53
+    },
+    {
+      "question": "Why is proper conduct repeatedly emphasized throughout the Mahabharata?",
+      "reference_answer": "Proper conduct is portrayed as the foundation of prosperity, righteousness, truth, and lasting success.",
+      "generated_answer": "Proper conduct is repeatedly emphasized throughout the Mahabharata because it is essential for attaining heaven, winning respect in the world, and regaining regard of the world. A virtuous man, by practicing virtue, reaps great happiness and enjoys diverse kinds of happiness here by following such conduct and by sharing his wealth with others.",
+      "similarity": 0.7205,
+      "sources": [
+        1322,
+        1812,
+        1818,
+        3228,
+        3815,
+        3870,
+        3875,
+        3931,
+        4002,
+        4456
+      ],
+      "generation_time": 6.74
+    }
+  ]
+}
